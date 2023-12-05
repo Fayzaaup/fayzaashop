@@ -54,6 +54,24 @@ const songs = [
         displayName: 'Rahasia Hati',
         cover: 'assets/7.jpg',
         artist: 'Element',
+    },
+        {
+        path: 'assets/8.mp3',
+        displayName: 'Tanpa Pesan Terakhir',
+        cover: 'assets/2.jpg',
+        artist: 'Seventeen',
+    },
+    {
+        path: 'assets/9.mp3',
+        displayName: 'Walking Back Home',
+        cover: 'assets/9.jpg',
+        artist: 'FUR',
+    },
+    {
+        path: 'assets/10.mp3',
+        displayName: 'Anything You Want',
+        cover: 'assets/10.jpg',
+        artist: 'Reality Club',
     }
     
 ];

@@ -73,7 +73,6 @@ const songs = [
         cover: 'assets/10.jpg',
         artist: 'Reality Club',
     }
-    
 ];
 
 let musicIndex = 0;
